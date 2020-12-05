@@ -1,5 +1,13 @@
 ### Hi there 👋
-[![Yonah's github stats](https://github-readme-stats.vercel.app/api?username=y330)](https://github.com/y330/github-readme-stats)
+[![Yonah's github stats](https://github-readme-stats.vercel.app/api?username=y330&show_icons=true)](https://github.com/y330/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y330&layout=compact)](https://github.com/y330/github-readme-stats)
+
+
+## Get my chrome extension:
+
+[![FragmentQR Chrome Extension](https://github-readme-stats.vercel.app/api/pin/?username=y330&repo=FragmentQR)](https://github.com/y330/FragmentQR)
 
 <!--
 **y330/y330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
