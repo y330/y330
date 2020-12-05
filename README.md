@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Yonah's github stats](https://github-readme-stats.vercel.app/api?username=y330)](https://github.com/y330/github-readme-stats)
 
 <!--
 **y330/y330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
