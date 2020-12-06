@@ -1,11 +1,11 @@
 # Site settings
 title: Yonah Aviv
-description: Digital Resume
+description: Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://yonahaviv.netlify.app" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: y330
+username: Yonah Aviv
 user_description: I am a highschool student but at the same time, a relatively exceptional computer programmer. I code in Python, am learning JavaScript, and swotting Machine Learning, among other things.
 user_title: Student
 email: avivyonah@gmail.com
