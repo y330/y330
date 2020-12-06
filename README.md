@@ -1,4 +1,4 @@
-### Welcome to my coding projects 👋
+### Welcome👋
 [![Yonah's github stats](https://github-readme-stats.vercel.app/api?username=y330&show_icons=true)](https://github.com/y330/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y330&layout=compact)](https://github.com/y330/github-readme-stats)
 
 
