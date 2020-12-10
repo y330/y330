@@ -11,9 +11,9 @@ document.addEventListener("DOMContentLoaded", function () {
           "enable": true,
           "value_area": 500
         }
-      },circle
+      },
       "color": {
-        "value": "#2f2f2f"
+        "value": "#edc240"
       },
       "shape": {
         "type": "square",
