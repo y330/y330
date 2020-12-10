@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
-- 🤝 I’m looking for help with testing [FragmentQR - chrome extension](https://y330.github.io/FragmentQR)
+- 🤝 I’m looking for feedback on [FragmentQR - chrome extension](https://y330.github.io/FragmentQR)
 
 - 👨‍💻 All of my projects are available at [https://github.com/y330](https://github.com/y330)
 
