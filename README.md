@@ -1,5 +1,5 @@
 # Resume website 
-https://yonahaviv.netlifly.com
+https://yonahaviv.netlify.com
 # Credits 
 
 **Creator of Particle Jekyll Theme: [Nathan Randecker](https://github.com/nrandecker)** 
