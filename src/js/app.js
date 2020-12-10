@@ -11,12 +11,12 @@ document.addEventListener("DOMContentLoaded", function () {
           "enable": true,
           "value_area": 500
         }
-      },
+      },circle
       "color": {
-        "value": "#ffffff"
+        "value": "#2f2f2f"
       },
       "shape": {
-        "type": "circle",
+        "type": "square",
         "stroke": {
           "width": 0,
           "color": "#000000"
