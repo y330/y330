@@ -22,7 +22,6 @@
 <a href="https://codepen.io/yonah1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yonah1111" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yonahaviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="yonahaviv" height="30" width="40" /></a>
 <a href="https://kaggle.com/yonahaviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="yonahaviv" height="30" width="40" /></a>
-<a href="https://instagram.com/avivyonah_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avivyonah_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yonah aviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yonah aviv" height="30" width="40" /></a>
 </p>
 
