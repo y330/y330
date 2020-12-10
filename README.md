@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avivyonah@gmail.com**
 
-- 📄 Know about my experiences [https://yonahaviv.netlify.app/](https://yonahaviv.netlify.app/)
+- 📄 Know about my experiences [https://y33.0.github.io/](https://y330.github.io.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
