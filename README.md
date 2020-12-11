@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/y330](https://github.com/y330?tab=repositories)
 
+- ⌨ My main development language is **Python**
+
 - 💬 Ask me about **python, HTML/CSS**
 
 - 📫 How to reach me **/**
@@ -18,11 +20,13 @@
 - 📄 Know about my experiences [https://y33.0.github.io/](https://y330.github.io/)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/yonah1111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yonah1111" height="30" width="40" /></a>
 <a href="https://codesandbox.com/yonahaviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="yonahaviv" height="30" width="40" /></a>
 <a href="https://kaggle.com/yonahaviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="yonahaviv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yonah aviv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yonah aviv" height="30" width="40" /></a>
+  <p><a href="https://www.buymeacoffee.com/yonahaviv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,4 +54,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> -->
 
-<p><a href="https://www.buymeacoffee.com/yonahaviv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p><br><br><br>
+
