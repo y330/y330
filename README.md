@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently focusing on **School**
+- 🔭 I’m currently working on **FragmentQR 2**, but for now I'm focusing on school.
 
-- 🌱 I’m currently learning **ReactJS, Machine Learning**
+- 🌱 I’m currently learning **Some ReactJS, a bit of Machine Learning**
 
 - 🤝 I’m looking for feedback on [FragmentQR - chrome extension](https://y330.github.io/FragmentQR)
 
@@ -13,7 +13,7 @@
 
 - ⌨ My main development language is **Python**
 
-- 💬 Ask me about **python, HTML/CSS**
+- 💬 Ask me about **Python, HTML/CSS/JS/**
 
 - 📫 How to reach me **/**
 
