@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [repositories tab](https://github.com/y330?tab=repositories)
 
-- ⌨ My main development language is **Python**
+- ⌨ My main development language is **Python**, and I have used various packages incuding Numpy, Pandas, Matplotlib, Pygame, and many more!
 
 - 💬 Ask me about **Python, HTML/CSS/JS, or general programming concepts**
 
