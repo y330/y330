@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Yonah</h1>
-<h3 align="center">A high school student doing interesting computer programming projects on the side..</h3>
+<h3 align="center">I'm a student sudying post-secondary education, while doing interesting computer programming projects on the side.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently working on **FragmentQR 2**, but for now I'm focusing on school.
+- 🔭 I’m currently working on **FragmentQR 2[not yet in production]**, but for now I'm focusing on school
 
-- 🌱 I’m currently learning **Some ReactJS, a bit of Machine Learning**
+- 🌱 I’m currently learning some **ReactJS**, and the basics of **machine learning**, but I am constantly learning new things
 
-- 🤝 I’m looking for feedback on [FragmentQR - chrome extension](https://y330.github.io/FragmentQR)
+- 🤝 I’m looking for feedback on [FragmentQR](https://y330.github.io/FragmentQR), a web extension available on MS edge and Google Chrome
 
-- 👨‍💻 All of my projects are available at [https://github.com/y330](https://github.com/y330?tab=repositories)
+- 👨‍💻 All of my projects are available at my [repositories tab](https://github.com/y330?tab=repositories)
 
 - ⌨ My main development language is **Python**
 
-- 💬 Ask me about **Python, HTML/CSS/JS/**
+- 💬 Ask me about **Python, HTML/CSS/JS, or general programming concepts**
 
-- 📫 How to reach me **/**
+- 📫 How to reach me **avivyonah@gmail.com**
 
 - 📄 Know about my experiences [https://y33.0.github.io/](https://y330.github.io/)
 
