@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently working on **FragmentQR 2[not yet in production]**, but for now I'm focusing on school
+- 🔭 I’m currently working on **FragmentQR Pro[not yet in production]**, but for now I'm focusing on school
 
-- 🌱 I’m currently learning some **ReactJS**, and the basics of **machine learning**, but I am constantly learning new things
+- 🌱 I’m currently learning **ReactJS** and **Machine learning**, in my spare time.
 
 - 🤝 I’m looking for feedback on [FragmentQR](https://y330.github.io/FragmentQR), a web extension available on MS edge and Google Chrome
 
@@ -13,11 +13,11 @@
 
 - ⌨ My main development language is **Python**, and I have used various packages incuding Numpy, Pandas, Matplotlib, Pygame, and many more!
 
-- 💬 Ask me about **Python, HTML/CSS/JS, programming concepts, or general development**
+- 💬 Ask me about **Python, HTML/CSS/JS, and (operating system, not development)Windows or Android.**
 
 - 📫 How to reach me **avivyonah@gmail.com**
 
-- 📄 Know about my experiences [https://y33.0.github.io/](https://y330.github.io/)
+- 📄 Know about my experiences [https://y330.github.io/](https://y330.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 
