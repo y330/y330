@@ -11,7 +11,7 @@
 
 - ⌨ My programming languages are **Python** and **HTML/CSS/JavaScript**.
 
-- 📫 How to reach me **avivyonah@gmail.com**
+- 📫 How to reach me: <a href="#" title="avivyonah@gmail.com" target="blank">Hover over me</a>
 
 - 📄 Know about my experiences [https://y330.github.io/](https://y330.github.io/)
 
