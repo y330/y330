@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently working on **FragmentQR Pro**, and exploring text fragments and their application in _academic citations_, _article summarizers_, and _web annotations/notes_ (See my repositories that start with [**"Fragment..."**(repos are empty for now)](https://github.com/y330?tab=repositories).
+- 🔭 I’m currently working on **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator).
 
 - 🌱 I’m currently learning **JavaScript**, and **ReactJS**.
 
