@@ -13,6 +13,8 @@
 
 - ⌨ My programming languages are **Python**, **HTML/CSS**, **JavaScript**, and **React**(I'm learning React and JS as I go)**.
 
+- 🧩 Here is a link to the [FragmentQR repository](https://github.com/y330/FragmentQR)
+
 - 📄 Know about my experiences and skills: **[https://y330.github.io/](https://y330.github.io/)**.
 
 - 📫 How to reach me: <a href="avivyonah@gmail.com" title="Click to email Yonah Aviv" Target="blank">a•iv••••h@gmail.com</a>
