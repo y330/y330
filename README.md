@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm Yonah</h1>
-<h3 align="center">I'm a student and I code in my spare time.</h3>
+<h3 align="center">I'm a student with a strong passion for computer programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently working on **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator).
+- 🔭 I’m currently working on **[FragmentQR](http://bit.ly/FQRrepo)**, a web extension.
 
-- 🌱 I’m currently learning **JavaScript**, and **ReactJS**.
+<!-- **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 
-- ⭐ I’m looking for reviews on my first chrome extension, **[FragmentQR(Web store link)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj)**, which generates QR codes and links that highlight any text you want in a webpage when someone scans or opens them. These special links utilize _text fragments_. 
+- 🌱 I’m currently learning **ReactJS**.
 
-- 🤝 Soon, I will be looking for feedback and/or testers for [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator).
+- ⭐ I’m looking for reviews on **[FragmentQR](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj)**. What does it do? FragmentQR generates QR codes that highlight text you selected in yellow on most smartphones that scan it.
 
-- ⌨ My programming languages are **Python**, **HTML/CSS**, **JavaScript**, and **React**(I'm learning React and JS as I go)**.
+- 🤝 I'm looking for feedback on [**FragmentQR**](http://bit.ly/FQRsite), 
 
-- 🧩 Here is a link to the [FragmentQR repository](https://github.com/y330/FragmentQR)
+- ⌨ My programming languages are **Python**, **HTML/CSS/JS**.
 
-- 📄 Know about my experiences and skills: **[https://y330.github.io/](https://y330.github.io/)**.
+- 📄 Know about my skills and experience: **[My portfolio](https://y330.github.io/)**.
 
-- 📫 How to reach me: <a href="avivyonah@gmail.com" title="Click to email Yonah Aviv" Target="blank">a•iv••••h@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:avivyonah@gmail.com" title="Send me an email" target="_blank">a****@gmail.com</a>
 
 
 <h3 align="left">Other platforms</h3>
@@ -38,14 +38,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>  -->
-</p>
-
-
 
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=false" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats" />
 </p>
 
 <!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" alt="Most used languages" /></p> -->
