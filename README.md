@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
-- 🔭 I’m currently working on **[FragmentQR](http://bit.ly/FQRrepo)**, a web extension.
+- 🔭 I’m currently working on maintaining [**FragmentQR**](http://bit.ly/FQRrepo) a browser extension built with HTML/CSS/JavaScript. In contrast to plain HTML/CSS/JS, I am also creating a new browser extension using Python and ReactJS.
 
 <!-- **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 
 - 🌱 I’m currently learning **ReactJS**.
 
-- ⭐ I’m looking for reviews on **[FragmentQR](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj)**. What does it do? FragmentQR generates QR codes that highlight text you selected in yellow on most smartphones that scan it.
+- 🤝 I'm looking for feedback on [**FragmentQR**](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj).
 
-- 🤝 I'm looking for feedback on [**FragmentQR**](http://bit.ly/FQRsite), 
-
-- ⌨ My programming languages are **Python**, **HTML/CSS/JS**.
+- ⌨ My programming languages are **Python**, **HTML, CSS, JS**.
 
 - 📄 Know about my skills and experience: **[My portfolio](https://y330.github.io/)**.
 
