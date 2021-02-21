@@ -10,7 +10,8 @@
 
 - 🤝 I'm looking for feedback on [**FragmentQR**](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
 
-- ⌨ My programming languages are **Python**, **HTML, CSS, JS**.
+- ⌨ My programming languages are **Python**, and **HTML/CSS**.
+- 🌱 I’m currently learning **JavaScript**.
 
 <!-- 
 - 📄 Know about my skills and experience: **[My portfolio](https://y330.github.io/)**.
