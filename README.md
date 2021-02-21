@@ -1,6 +1,4 @@
 
-<h1>👨‍💻Hey, I'm Yonah.</h1>
-<h3>I'm a student with a strong passsion for computer engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y330&label=Profile%20views&color=0e75b6&style=flat" alt="y330" /> </p>
 
 <!-- - 🔭 I’m currently working on maintaining [**FragmentQR**](http://bit.ly/FQRrepository) a browser extension built with HTML/CSS/JavaScript. In contrast to plain HTML/CSS/JS, I am also creating a new browser extension using Python and ReactJS. -->
