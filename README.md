@@ -10,32 +10,47 @@
 
 - 🤝 I'm looking for feedback on [**FragmentQR**](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
 
-- ⌨ My programming languages are **Python**, and **HTML/CSS**.
-- 🌱 I’m currently learning **JavaScript**.
+- ⌨ My programming languages (ordered by level of expertise, ascending) are Python, HTML/CSS, JS.
 
-<!-- 
-- 📄 Know about my skills and experience: **[My portfolio](https://y330.github.io/)**.
+- 🌱 I’m currently learning **Django** for web apps, and **natraul language proscessing(NLP)** in python.
 
-<!-- - 📫 How to reach me: <a href="mailto:avivyonah@gmail.com" title="Send me an email" target="_blank">a****@gmail.com</a> -->
+- 📄 More on my skills and experiences: **[My portfolio(Not up to date)](https://y330.github.io/)**.
+
+- 📫 How to reach me: <a href="mailto:avivyonah@gmail.com" title="Send me an email" target="_blank">aviv***ah@gmail.com(click)</a>
+
+
+### Development 
+
+#### Front End:
+
+*Ordered from greatest to least experience*
+1. **HTML, CSS, JavaScript** `.html`,`.css`, `js`  
+3.  **ReactJS** `.jsx`, `package.json`(npm)
+
+#### Backend
+
+1. **Python 3** (including NumPy, Pandas, Pygame, Matplotlib.) `.py`
+5. **Django** (web framework in python.) `.py`
+
+
 
 
 
 <h3 align="left">Editors:</h3>
 <p align="left">
 
-  <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="vscode" width="40px" height="40px"/>
+  <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="vscode" width="20px" height="20px"/>
   <a href="https://www.pycharm.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="python" width="20px" height="20px"/> </a>  </a> 
 </p>
 
 <h3 align="left">Stats:</h3>
-<!-- <p>
+ <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats" />
 </p>
- -->
-<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" alt="Most used languages" /></p> -->
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" alt="Most used languages" /></p> 
+ <p><img  width="300px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> 
 
 
 
