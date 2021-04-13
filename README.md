@@ -10,7 +10,7 @@
 
 - 🤝 I'm looking for feedback on [**FragmentQR**](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
 
-- ⌨ My programming languages (ordered by level of expertise, ascending) are Python, HTML/CSS, JS.
+- ⌨ My programming languages (ordered from greatest to least experience) are Python, HTML/CSS, JS.
 
 - 🌱 I’m currently learning **Django** for web apps, and **natraul language proscessing(NLP)** in python.
 
