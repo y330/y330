@@ -25,12 +25,12 @@
 
 *Ordered from greatest to least experience*
 1. **HTML, CSS, JavaScript** `.html`,`.css`, `js`  
-3.  **ReactJS** `.jsx`, `package.json`(npm)
+3.  **ReactJS**: NPM and jsx
 
 #### Backend
 
 1. **Python 3** (including NumPy, Pandas, Pygame, Matplotlib.) `.py`
-5. **Django** (web framework in python.) `.py`
+<!--5. **Django** (web framework in python.) `.py`-->
 
 
 
