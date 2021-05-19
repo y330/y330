@@ -8,7 +8,9 @@
 - ⚒ Currently working on NLP and web scraping.
 <!-- - 🌱 I’m currently learning **ReactJS**. -->
 
-- 🤝 I'm looking for feedback on [**FragmentQR**\(deprecated\)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
+
+ 
+- 🤝 I'm looking for feedback on [**FragmentQR**\(chromeex tension \)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
 
 - ⌨ I program in python, and sometimes in javascript(and html/css)
 
