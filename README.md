@@ -16,7 +16,7 @@
 
 - 📄 More on my skills and experiences: **[My portfolio(Not up to date)](https://y330.github.io/)**.
 
-- 📫 How to reach me: <a href="mailto:avivyonah@gmail.com" title="Send me an email" target="_blank">aviv***ah\@gmail.com(click)</a>
+- 📫 How to reach me: [Send me an email](mailto:avivyonah@gmail.com)
 
 
 ### Development 
