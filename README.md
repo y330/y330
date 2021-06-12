@@ -5,16 +5,19 @@
 
 <!-- -  **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 
-- ⚒ Currently working on NLP and web scraping.
+- ⚒ Currently coding in Svelte and learnig NLP and speech synthesis.
 <!-- - 🌱 I’m currently learning **ReactJS**. -->
 
 
  
-- 🤝 I'm looking for feedback on [**FragmentQR**\(chrome extension\)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
+- ⭐ I'm looking for feedback on [**FragmentQR**\(chrome extension\)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
+- 🤝 I'm open to collaborate on new projects. Contact me if this is of interest
 
-- ⌨ I program in python, and sometimes in javascript(and html/css)
+- ⌨ I program in python, javascript, html5, css3, sass
 
-- 📄 More on my skills and experiences: **[My portfolio(Not up to date)](https://y330.github.io/)**.
+- 🖼 Some tools and frameworks I am familiar with and use include Svelte, pnpm(performant npm), git, snowpack, webpack
+
+- 📄 More on my skills and experiences: **[My portfolio(Under Construction)](https://y330.github.io/)**.
 
 - 📫 How to reach me: [Send me an email](mailto:avivyonah@gmail.com)
 
@@ -64,10 +67,10 @@
   <a href="https://instagram.com/yonah.aviv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="My instagram" height="30" width="40" background-color="white" /></a>
 <a href="https://codesandbox.com/yonahaviv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="yonahaviv" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yonah aviv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yonah aviv" height="30" width="40" /></a>
-  <p><a href="https://www.buymeacoffee.com/yonahaviv" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p>
+ 
+  <p><a href="https://www.buymeacoffee.com/yonahaviv"  target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p>
 </p>
 
-<div class="payment-button"><a href="https://www.buymeacoffee.com/yonahaviv" rel="noreferrer" target="_blank"><div class="bmc-button"><img src="http://www.potlabicons.com/static/media/buymecoffee.922993df.svg" alt="Buy Me A Coffee : Yonah Aviv" width="50px"><div class="bmc-text"><div class="bmc-logo" color="yellow">Buy me a coffee</div></a></div>
   
 </footer>
 
