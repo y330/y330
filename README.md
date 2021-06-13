@@ -13,9 +13,9 @@
 - ⭐ I'm looking for feedback on [**FragmentQR**\(chrome extension\)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
 - 🤝 I'm open to collaborate on new projects. Contact me if this is of interest
 
-- ⌨ I program in python, javascript, html5, css3, sass
+- ⌨ I program in Python, JavaScript, SCSS, CSS3, HTML5
 
-- 🖼 Some tools and frameworks I am familiar with and use include Svelte, pnpm(performant npm), git, snowpack, webpack
+- 🖼 Some tools and frameworks I am familiar with and use include Svelte, pnpm(performant npm), Git, Snowpack, webpack.js
 
 - 📄 More on my skills and experiences: **[My portfolio(Under Construction)](https://y330.github.io/)**.
 
