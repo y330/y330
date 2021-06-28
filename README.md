@@ -46,8 +46,8 @@
 -->
 <h3 align="left">Stats:</h3>
  <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" alt="Most used languages" width="25%"/>
-  <img verticla-align="top" align=right src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" alt="Most used languages"/>
+  <img verticla-align="top" align=right src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats"/>
 </p>
 <p><img  width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> 
 
