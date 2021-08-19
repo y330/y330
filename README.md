@@ -5,17 +5,15 @@
 
 <!-- -  **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 
-- ⚒ Currently coding in Svelte and learnig NLP
-  + __Recent Team Project__: Simplihacks hackathon submission [Scanlendar](https://github.com/y330/scanlendar)
-- 🌱 I’m coding [**Q-Article Audio**](https://github.com/y330/q-article-audio), a chrome extension for listening to articles as podcasts on the go.
-- ⭐ I'm looking for feedback on [**FragmentQR**\(chrome extension\)](https://chrome.google.com/webstore/detail/fragmentqr/cabodnfakameckfbbgkciiifempglloj/reviews).
+- ⚒ Currently coding in Svelte and learnig ML and crypto
+
 - 🤝 I'm open to collaborate on new projects. Contact me if this is of interest
 
 - ⌨ I program in Python, JavaScript, CSS3, HTML5
 
 - 🖼 Some tools and frameworks I am familiar with and use include Svelte, pnpm(performant npm), Git, Snowpack, webpack.js, Pandas(dataframe), Vuejs(learning), flask
 
-- 📄 More on my skills and experiences: **[My portfolio(Under Construction)](https://y330.github.io/)**.
+- 📄 More on my skills and experiences: **[My portfolio(Under Construction)](https://yonah.ml)**.
 
 - 📫 How to reach me: [Send me an email](avivyonah@gmail.com)
 
@@ -45,10 +43,10 @@
     </p>
 -->
 <h3 align="left">Stats:</h3>
- <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" width="30%"  alt="Most used languages"/>
-  <img  width="60%" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats"/>
-</p>
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330" width="100%"  alt="Most used languages(Amount of .ipynb is disproportionate)"/>
+  <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&hide=contribs&include_all_commits=true" alt="Stats"/>
+
 <p><img  width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> 
 
 
