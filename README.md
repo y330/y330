@@ -46,7 +46,7 @@
     <span>
   <img src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&title_color=ff7e00&icon_color=ff5e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
 </span>
-<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=dark" alt="y330" /></p> 
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=dark&title_color=ff7e00" alt="y330" /></span> 
 
 
 
