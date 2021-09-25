@@ -7,13 +7,9 @@
 
 - ⚒ Currently coding in Svelte and learnig ML and crypto
 
-- 🤝 I'm open to collaborate on new projects. Contact me if this is of interest
+- ⌨ I program in Python, JavaScript, Java, CSS3, HTML5, Svelte, Flask
 
-- ⌨ I program in Python, JavaScript, CSS3, HTML5
-
-- 🖼 Some tools and frameworks I am familiar with and use include Svelte, pnpm(performant npm), Git, Snowpack, webpack.js, Pandas(dataframe), Vuejs(learning), flask
-
-- 📄 More on my skills and experiences: **[My portfolio(Under Construction)](https://yonah.ml)**.
+- 📄 More on my skills and experiences: **[My portfolio](https://yonah.ml)**.
 
 - 📫 How to reach me: [Send me an email](avivyonah@gmail.com)
 
@@ -44,10 +40,13 @@
 -->
 <h3 align="left">Stats:</h3>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330&exclude_lang=ipynb" width="50%"  alt="Most used languages(Amount of .ipynb is disproportionate)"/>
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&include_all_commits=true" alt="Stats"/>
-
-<p><img  width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=solarized-light" alt="y330" /></p> 
+ <span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&layout=compact&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330&hide=jupyter%20notebook"  alt="Most used languages"/>
+    </span>
+    <span>
+  <img src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
+</span>
+<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=vue-dark" alt="y330" /></p> 
 
 
 
@@ -56,8 +55,8 @@
 ## Profiles
   
   
-<div align="center" fill="white">
-<a href="https://codepen.io/yonah1111" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/codepen.svg" style="filter: invert(45%) sepia(26%) saturate(5056%) hue-rotate(164deg) brightness(99%) contrast(101%);" alt="yonah1111" height="30" width="40" /></a>
+<div align="center">
+<a href="https://codepen.io/yonah1111" target="_blank"><img align="center" fill="white" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/codepen.svg" style="filter: invert(45%) sepia(26%) saturate(5056%) hue-rotate(164deg) brightness(99%) contrast(101%);" alt="yonah1111" height="30" width="40" /></a>
   
 <a href="https://www.youtube.com/c/yonah aviv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/youtube.svg" alt="yonah aviv" height="30" width="40" /></a>
  
