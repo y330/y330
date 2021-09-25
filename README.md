@@ -41,12 +41,12 @@
 <h3 align="left">Stats:</h3>
  
  <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&layout=compact&show_icons=true&theme=vue-dark&locale=en&exclude_repo=y330.github.io,y330&hide=jupyter%20notebook"  alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=y330&layout=compact&show_icons=true&title_color=ff7e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&exclude_repo=y330.github.io,y330&hide=jupyter%20notebook"  alt="Most used languages"/>
     </span>
     <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&theme=vue-dark&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=y330&show_icons=true&title_color=ff7e00&icon_color=ff5e00&bg_color=20232a&text_color=ffffff&border_color=ff5e00&locale=en&include_all_commits=true&count_private=true" alt="Stats"/>
 </span>
-<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=vue-dark" alt="y330" /></p> 
+<p><img  width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y330&theme=dark" alt="y330" /></p> 
 
 
 
