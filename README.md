@@ -13,6 +13,7 @@
 
 - 📫 How to reach me: [Send me an email](avivyonah@gmail.com)
 
+Current favorite language: Java☕️
 
 ## Development 
 <!--
