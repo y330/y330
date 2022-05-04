@@ -5,21 +5,18 @@
 
 <!-- -  **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 
-- ⚒ Currently coding in Svelte and learnig ML and crypto
 
-- ⌨ I program in Python, JavaScript, Java, CSS3, HTML5, Svelte, Flask
+- ⌨ I program in Python, JavaScript, Java, CSS3, HTML5, Svelte, Flask, and Golang
 
-- 📄 More on my skills and experiences: **[My portfolio](https://yonah.ml)**.
+- 📄 My website: **[My portfolio](https://yonah.ml)**.
 
-- 📫 How to reach me: [Send me an email](avivyonah@gmail.com)
+- 📫 Email: [email](avivyonah@gmail.com)
 
-Current favorite language: Java☕️
 
 ## Development 
 <!--
     #### Front End:
 
-    *Ordered from greatest to least experience*
     1. **HTML, CSS, JavaScript** `.html`,`.css`, `js`  
     3.  **ReactJS**: NPM and jsx
 
