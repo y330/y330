@@ -10,7 +10,7 @@ Currently working on training my essay writer 2.0
 
 - 📄 My website: **[yonah.ml](https://yonah.ml)**
 
-- 📫 How to contact me: [send me an email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=SUBJECT&to=avivyonah@gmail.com&body=BODY)
+- 📫 How to contact me: [send me an email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=(via%20github):%20SUBJECT&to=avivyonah@gmail.com&body=BODY)
 
 
 ## Development 
