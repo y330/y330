@@ -6,8 +6,7 @@
 <!-- -  **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
 Working co-op as a middle school coding teacher and web developer. 
 
-- ⌨ I program in **Python**, **JavaScript**/**TS**, **Java**, and **Golang**
-
+- ⌨ I program in **Python**, **JavaScript**/**TS**, and **Java**
 - 📄 My website(outdated, check LinkedIn instead): **[yonah.ml](https://yonah.ml)**
 
 - 📫 How to contact me: [send me an email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=(via%20github):%20SUBJECT&to=avivyonah@gmail.com&body=BODY)
