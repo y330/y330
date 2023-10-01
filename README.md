@@ -4,10 +4,10 @@
 <!-- - 🔭 I’m currently working on maintaining [**FragmentQR**](http://bit.ly/FQRrepository) a browser extension built with HTML/CSS/JavaScript. In contrast to plain HTML/CSS/JS, I am also creating a new browser extension using Python and ReactJS. -->
 
 <!-- -  **FragmentQR Pro**, and [__FragmentCitation__](https://github.com/y330/FragmentCitation), [__FragmenTLDR__](https://github.com/y330/FragmenTLDR), and [__FragmentAnnotator__](https://github.com/y330/FragmentAnnotator). -->
-Working co-op as a middle school coding teacher and web developer. 
+Currently a CS student at WLU. 
 
 - ⌨ I program in **Python**, **JavaScript**/**TS**, and **Java**
-- 📄 My website(outdated, check LinkedIn instead): **[yonah.ml](https://yonah.ml)**
+- 📄 Linkedin: **[yonah.ml](https://yonah.ml)**
 
 - 📫 How to contact me: [send me an email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=(via%20github):%20SUBJECT&to=avivyonah@gmail.com&body=BODY)
 
