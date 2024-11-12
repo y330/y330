@@ -7,7 +7,7 @@
 Currently a CS student at WLU. 
 
 - ⌨ I program in **Python**, **JavaScript**/**TS**, and **Java**
-- 📄 Linkedin: **[yonah.ml](https://linkedin.com/in/yonahaviv)**
+- 📄 My website: **[yonah.vercel.app](https://linkedin.com/in/yonahaviv)**
 
 - 📫 How to contact me: [send me an email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=(via%20github):%20SUBJECT&to=avivyonah@gmail.com&body=BODY)
 
