@@ -50,10 +50,6 @@ Currently a CS student at WLU.
   
   
 <div align="center">
-<a href="https://codepen.io/yonah1111" target="_blank"><img align="center" fill="white" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/codepen.svg" style="filter: invert(45%) sepia(26%) saturate(5056%) hue-rotate(164deg) brightness(99%) contrast(101%);" alt="yonah1111" height="30" width="40" /></a>
-  
-<a href="https://www.youtube.com/c/yonah aviv" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/youtube.svg" alt="yonah aviv" height="30" width="40" /></a>
- 
   <p><a href="https://www.buymeacoffee.com/yonahaviv"  target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p>
 
 </div>
