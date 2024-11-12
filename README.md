@@ -46,7 +46,6 @@ Currently a CS student at WLU.
 
 <footer>
   
-## Profiles
   
   
 <div align="center">
