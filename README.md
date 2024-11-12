@@ -46,9 +46,9 @@ Currently a CS student at WLU.
 
 <footer>
   
+<hr>
   
-  
-<div align="center">
+<div align="left">
   <p><a href="https://www.buymeacoffee.com/yonahaviv"  target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonahaviv" /></a></p>
 
 </div>
